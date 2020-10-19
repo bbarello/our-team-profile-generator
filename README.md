@@ -11,6 +11,8 @@ input any number of team members with mixture of engineers and interns. This app
 unit tests. When the user has completed building the team, the application will create an HTML file that 
 a nicely formatted team roster based on the information provided by the user. 
 
+One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Often times, how we design our code is just as important as the code itself. Since testing is a key piece in making code maintainable, this application also includes a suites of Jest unit tests. And the development of this project was focused on test-driven development.
+
 
 ```
 
