@@ -22,7 +22,7 @@ One of the most important aspects of programming is writing code that is readabl
 
 This Node CLI will prompt you to generate a webpage for your software engineering team. The application will prompt you for information about the team manager and then information about the team members. You can input any number of team members, including a mix of engineers and interns. Validation is implemented to ensure that information provided is in the proper expected format.
 
-![Gif demo of team-page-generator CLI](images/teampage-demo.gif)
+![Team-Page-Generator](images/teampage-demo.gif)
 
 ### Roster output
 
@@ -110,7 +110,7 @@ The development of this application focused on writing tests and ensuring applic
 ## Staging Link
 https://bbarello.github.io/our-team-profile-generator/
 
-<!-- ## Screenshot -->
+## Original Mockup
 
-<!-- ![Team Generator](.png) -->
+![Team Generator Comp](images/OOP-demo-2.png)
 
