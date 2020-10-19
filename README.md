@@ -1,4 +1,4 @@
-# Our Team Profile Generator
+# Node Team Profile Generator
 
 A manager application that generates and displays team's basic info for quick access to emails and GitHub profiles.
 
