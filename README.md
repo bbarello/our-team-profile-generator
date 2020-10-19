@@ -110,7 +110,5 @@ The development of this application focused on writing tests and ensuring applic
 ## Staging Link
 https://bbarello.github.io/our-team-profile-generator/
 
-## Screenshot
 
-![Team Generator](.png)
 
