@@ -1,0 +1,30 @@
+{
+  "name": "our-team-profile-generator",
+  "version": "1.0.0",
+  "description": "A manager application that generates and displays team's basic info for quick access to emails and GitHub profiles.",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbarello/our-team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbarello/our-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/bbarello/our-team-profile-generator#readme"
+}
