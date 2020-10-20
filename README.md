@@ -112,5 +112,4 @@ https://bbarello.github.io/our-team-profile-generator/
 
 ## Screenshot
 
-![Team Generator Comp](demo.jpg)
-
+![Team-Page-Generator](demo.jpg)
