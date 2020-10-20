@@ -112,5 +112,5 @@ https://bbarello.github.io/our-team-profile-generator/
 
 ## Original Mockup
 
-![Team Generator Comp](images/OOP-demo-2.png)
+![Team Generator Comp](images/demo.jpg)
 
